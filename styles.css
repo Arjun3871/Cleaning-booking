@@ -1,4 +1,18 @@
-/* Reset default margin & padding */
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 24px;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+}nano styles.css/* Reset default margin & padding */
 * {
     margin: 0;
     padding: 0;
