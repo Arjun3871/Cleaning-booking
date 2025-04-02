@@ -1,4 +1,34 @@
 body {
+    background-color: yellow; /* Bright yellow background */
+    color: black; /* Black text for contrast */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 18px;
+}
+
+button {
+    background-color: black; /* Black button */
+    color: yellow;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgray;
+}body {
     background-color: white;
     font-family: Arial, sans-serif;
     text-align: center;
